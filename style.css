@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+.beee{
+    width: 100%;
+    height: 100vh;
+    background-image:  url(./pic/download\ \(1\).jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: 80px 80px;
+    margin: 0px 0px;
+    box-sizing: border-box;
+   
+
+
+}
+.auth{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+.loggg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 100% ;  */
+      /* overflow: hidden; */
+}
+
+.formm{
+    /* width: 260%;  */
+    margin-top: -50px;
+}
+.sigg{
+    color: #ff0084;
+}
+
+.tooodooo{
+    width: 100%;
+    height: 100vh;
+    background-image:  url(./pic/download\ \(1\).jpeg);
+    background-position: center;
+    background-size: cover;
+    padding: 30px 30px;
+    margin: 0px 0px;
+    box-sizing: border-box;
+   
+}
+
+    
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 320px) {
+.auth{
+    margin-top: -30px;
+}
+.formm {
+    /* width: 50%; */
+    height: 100vh;
+}
+.hee{
+    margin-top: -20px;
+}
+.beee{
+    height:105vh ;
+}
+.uppp{
+    height: 90vh;
+    margin-top: -40px;
+    margin-left: -30px;
+    padding: 10px;
+}
+.hummmm{
+    margin-left: -18px;
+    font-size: 19px;
+}
+.hee{
+    padding: 10px 09px;
+}
+.profi{
+    margin-top: 20px;
+    /* size: 5px; */
+    margin-left: -10px;
+}
+
+}
+/*   */
